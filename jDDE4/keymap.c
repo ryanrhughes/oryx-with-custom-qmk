@@ -59,7 +59,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, TD(DANCE_15),   
     KC_TRANSPARENT, KC_B,           KC_L,           KC_D,           KC_W,           TD(DANCE_11),                                   TD(DANCE_16),   KC_F,           KC_O,           KC_U,           KC_J,           TD(DANCE_17),   
     KC_TRANSPARENT, MT(MOD_LCTL, KC_N),MT(MOD_LALT, KC_R),MT(MOD_LGUI, KC_T),MT(MOD_LSFT, KC_S),KC_G,                                           KC_Y,           MT(MOD_RSFT, KC_H),MT(MOD_RGUI, KC_A),MT(MOD_RALT, KC_E),MT(MOD_RCTL, KC_I),TD(DANCE_18),   
-    KC_TRANSPARENT, KC_Q,           TD(DANCE_12),   KC_H,           TD(DANCE_13),   TD(DANCE_14),                                   KC_K,           KC_P,           TD(DANCE_19),   TD(DANCE_20),   TD(DANCE_21),   KC_TRANSPARENT, 
+    KC_TRANSPARENT, KC_Q,           TD(DANCE_12),   KC_M,           TD(DANCE_13),   TD(DANCE_14),                                   KC_K,           KC_P,           TD(DANCE_19),   TD(DANCE_20),   TD(DANCE_21),   KC_TRANSPARENT, 
                                                     KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_TRANSPARENT, KC_TRANSPARENT
   ),
   [3] = LAYOUT_voyager(
